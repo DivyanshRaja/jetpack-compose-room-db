@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">room-db-demo</string>
+    <string name="welcome">Welcome!</string>
+    <string name="intro_message">Sign in or create a new Account</string>
+    <string name="go_to_sign_in">Go to Sign In</string>
+    <string name="no_account_yet_msg">No account yet? Sign up</string>
+
+</resources>
